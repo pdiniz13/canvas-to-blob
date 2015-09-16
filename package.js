@@ -17,6 +17,6 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
   api.use('tinytest');
-  api.use('pdiniz13:canvas-to-blob');
+  api.use('pdiniz:canvas-to-blob');
   api.addFiles('canvas-to-blob-tests.js');
 });
