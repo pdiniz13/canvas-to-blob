@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'pdiniz13:canvas-to-blob',
+  name: 'pdiniz:canvas-to-blob',
   version: '0.0.1',
   // Brief, one-line summary of the package.
   summary: 'Simple wrapper around the blueimp\'s JavaScript-Canvas-to-Blob package',
